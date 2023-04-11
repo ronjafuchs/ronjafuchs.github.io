@@ -3,15 +3,15 @@
   "username": "ronjafuchs",
   "name": "crispy",
   "userimg": "https://avatars.githubusercontent.com/u/60022237?v=4",
-  "sort": "full_name",
+  "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
    "owner"
   ],
   "twitter": null,
-  "linkedin": "ronjafuchs",
+  "linkedin": null,
   "medium": null,
   "dribbble": null
  }
