@@ -79,6 +79,7 @@ body {
   color: #fff !important;
 }
 
+
 #display {
   width: 64vw;
   padding: 4vh 3vw;
@@ -576,4 +577,6 @@ body {
     url("light");
   --background-background: #fff;
 }
+
+
 
