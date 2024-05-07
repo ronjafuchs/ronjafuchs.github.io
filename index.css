@@ -28,6 +28,14 @@ body {
   padding: 0 10rem 0 10rem;
 }
 
+.interests {
+  margin-top: -2rem;
+  .interest {
+    background-color: rgb(155, 236, 176)
+  }
+
+}
+
 #loading {
   width: 100vw;
   height: 100vh;
@@ -580,3 +588,8 @@ body {
 
 
 
+@media (min-width: 700px) {
+  .profile-img {
+    margin-top: 6rem !important; 
+  }
+}
