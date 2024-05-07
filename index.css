@@ -30,10 +30,10 @@ body {
 
 .interests {
   margin-top: -2rem;
-  .interest {
-    background-color: rgb(155, 236, 176)
-  }
+}
 
+.interest {
+  background-color: rgb(155, 236, 176)
 }
 
 #loading {
