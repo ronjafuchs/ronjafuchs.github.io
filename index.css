@@ -455,10 +455,13 @@ body {
 }
 
 @media (max-width: 800px) {
+  ul {
+    padding: 0;
+  }
   #profile {
     width: 90vw;
     padding: 4vh 5vw;
-    height: 80vh;
+    height: 95vh;
     text-align: center;
     position: relative;
   }
@@ -479,6 +482,7 @@ body {
     max-width: 120px;
     max-height: 120px;
     margin: 0px auto !important;
+    
   }
 
   #work {
